@@ -21,3 +21,11 @@ Install the requirements using:
 
 ```bash
 pip install -r requirements.txt
+
+
+▶️ How to Run
+Clone the repository:  git clone https://github.com/your-username/SecurePasswordTool.git
+                       cd SecurePasswordTool
+
+Run the Python file:   python secure_password_tool.py
+
