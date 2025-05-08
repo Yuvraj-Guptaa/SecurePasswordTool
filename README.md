@@ -33,3 +33,7 @@ cd SecurePasswordTool
 
 ### Run the Python file:
 - python secure_password_tool.py
+
+## 🖼️ Screenshot
+
+![App Demo](app_demo.png)
